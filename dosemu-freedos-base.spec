@@ -23,7 +23,7 @@ In this package there is base part of FreeDOS Ripcord.
 W tym pakiecie jest czê¶æ 'base' FreeDOSa.
 
 %prep
-%setup -c %{name} -q
+%setup -q -c
 
 %build
 rm -rf freedos
