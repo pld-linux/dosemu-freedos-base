@@ -2,7 +2,7 @@ Summary:	FreeDOS Ripcord base part
 Summary(pl):	Czê¶æ 'base' FreeDosa
 Name:		dosemu-freedos-base
 Version:	beta7h01
-Release:	3
+Release:	4
 Epoch:		1
 License:	GPL
 Group:		Applications/Emulators
@@ -35,6 +35,7 @@ rm -f freedos/copying
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT/var/lib/dosemu/bootdir
+
 cp -fR freedos $RPM_BUILD_ROOT/var/lib/dosemu/bootdir
 
 %clean
