@@ -2,7 +2,7 @@ Summary:	FreeDOS Ripcord base part
 Summary(pl):	Czê¶æ 'base' FreeDosa
 Name:		dosemu-freedos-base
 Version:	beta7h01
-Release:	4
+Release:	5
 Epoch:		1
 License:	GPL
 Group:		Applications/Emulators
