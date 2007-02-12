@@ -1,5 +1,5 @@
 Summary:	FreeDOS Ripcord base part
-Summary(pl.UTF-8):   Część 'base' FreeDosa
+Summary(pl.UTF-8):	Część 'base' FreeDosa
 Name:		dosemu-freedos-base
 Version:	beta7h01
 Release:	5
