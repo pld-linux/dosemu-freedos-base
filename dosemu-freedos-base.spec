@@ -1,5 +1,5 @@
 Summary:	FreeDOS Ripcord base part
-Summary(pl):	Czê¶æ 'base' FreeDosa
+Summary(pl.UTF-8):   CzÄ™Å›Ä‡ 'base' FreeDosa
 Name:		dosemu-freedos-base
 Version:	beta7h01
 Release:	5
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 In this package there is base part of FreeDOS Ripcord.
 
-%description -l pl
-W tym pakiecie jest czê¶æ 'base' FreeDOSa.
+%description -l pl.UTF-8
+W tym pakiecie jest czÄ™Å›Ä‡ 'base' FreeDOSa.
 
 %prep
 %setup -q -c
