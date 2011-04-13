@@ -1,13 +1,13 @@
 Summary:	FreeDOS Ripcord base part
 Summary(pl.UTF-8):	Część 'base' FreeDosa
 Name:		dosemu-freedos-base
-Version:	beta7h01
-Release:	5
+Version:	beta7h03
+Release:	1
 Epoch:		1
 License:	GPL
 Group:		Applications/Emulators
-Source0:	ftp://ftp.task.gda.pl/pub/dos/freedos/files/distributions/ripcord/beta7h01/EN/full/disksets/base1.zip
-# Source0-md5:	7de83eeb8e7247562c8503d99739a24e
+Source0:	ftp://ftp.task.gda.pl/pub/dos/freedos/files/distributions/ripcord/%{version}/EN/disksets/base1.zip
+# Source0-md5:	f626dd249cf05ef2278695f5940801ba
 URL:		http://www.freedos.org/
 BuildRequires:	unzip
 Obsoletes:	dosemu-freedos
